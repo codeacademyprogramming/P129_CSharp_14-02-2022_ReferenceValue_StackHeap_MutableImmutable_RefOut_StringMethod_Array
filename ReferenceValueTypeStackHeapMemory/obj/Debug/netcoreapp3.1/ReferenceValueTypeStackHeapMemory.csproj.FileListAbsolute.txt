@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\bin\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.exe
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\bin\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.deps.json
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\bin\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\bin\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\bin\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.dll
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\bin\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.pdb
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\obj\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\obj\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\obj\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\obj\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\obj\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\obj\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.dll
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\obj\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.pdb
+C:\Users\memme\Desktop\P129\Task\ReferenceValueTypeStackHeapMemory\obj\Debug\netcoreapp3.1\ReferenceValueTypeStackHeapMemory.genruntimeconfig.cache

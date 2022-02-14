@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\bin\Debug\netcoreapp3.1\ArrayStringMethod.exe
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\bin\Debug\netcoreapp3.1\ArrayStringMethod.deps.json
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\bin\Debug\netcoreapp3.1\ArrayStringMethod.runtimeconfig.json
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\bin\Debug\netcoreapp3.1\ArrayStringMethod.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\bin\Debug\netcoreapp3.1\ArrayStringMethod.dll
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\bin\Debug\netcoreapp3.1\ArrayStringMethod.pdb
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\obj\Debug\netcoreapp3.1\ArrayStringMethod.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\obj\Debug\netcoreapp3.1\ArrayStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\obj\Debug\netcoreapp3.1\ArrayStringMethod.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\obj\Debug\netcoreapp3.1\ArrayStringMethod.AssemblyInfo.cs
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\obj\Debug\netcoreapp3.1\ArrayStringMethod.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\obj\Debug\netcoreapp3.1\ArrayStringMethod.dll
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\obj\Debug\netcoreapp3.1\ArrayStringMethod.pdb
+C:\Users\memme\Desktop\P129\Task\ArrayStringMethod\obj\Debug\netcoreapp3.1\ArrayStringMethod.genruntimeconfig.cache
